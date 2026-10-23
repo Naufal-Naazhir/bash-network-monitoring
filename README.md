@@ -61,8 +61,8 @@ Eksekusi skrip berhasil mendeteksi status gateway, memverifikasi akses layanan w
 Cuplikan isi log pemantauan (`network_status.log`):
 
 ```text
-[2026-10-14 10:15:02] [STATUS] Gateway (192.168.10.1) : ONLINE
-[2026-10-14 10:15:03] [STATUS] Layanan Web (google.com) : ONLINE
+[2026-10-23 08:11:57] [STATUS] Gateway (192.168.10.1) : ONLINE
+[2026-10-23 08:11:57] [STATUS] Layanan Web (google.com) : ONLINE
 ```
 
 ---
